@@ -1,0 +1,11 @@
+.reveal section h1,
+.reveal section h2,
+.reveal section h3,
+.reveal section h4,
+.reveal section h5 {
+  text-transform: none;
+}
+
+.reveal section ul {
+    font-size: 0.9em;
+}
