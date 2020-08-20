@@ -1,10 +1,20 @@
 ---
 theme : "Moon"
-transition: "none"
 customTheme: "custom-theme"
+transition: "none"
+slideNumber: true
+enableMenu: false
+enableChalkboard: false
+enableTitleFooter: false
 ---
 
 # Introduction to OSS
+
+OSS 勉強会 #1
+
+2020/08/19
+
+@kawanamiyuu
 
 ---
 
@@ -157,4 +167,8 @@ customTheme: "custom-theme"
 
 ---
 
-（かわなみの体験談）
+（体験談）
+
+OSS の開発チームに JOIN した話
+
+※Confidential
