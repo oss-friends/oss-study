@@ -43,7 +43,7 @@ OSS 勉強会 #1
 
 ---
 
-## Open Source Initiative
+### Open Source Initiative
 
 * オープンソースの定義
     * https://opensource.org/osd （[和訳](https://ja.osdn.net/projects/opensource/wiki/Open_Source_Definition)）
@@ -54,7 +54,7 @@ OSS 勉強会 #1
 
 ---
 
-## Open Source Guides
+### Open Source Guides
 
 * オープンソースガイドライン
     * https://opensource.guide （[和訳](https://opensource.guide/ja/)）
