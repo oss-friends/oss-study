@@ -8,7 +8,7 @@ enableChalkboard: false
 enableTitleFooter: false
 ---
 
-# Contribute to OSS
+# Contribution to OSS
 
 OSS 勉強会 #2
 
