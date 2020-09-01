@@ -105,3 +105,7 @@ $ git pull --rebase upstream master # or `git merge upstream/master`
 ---
 
 ## 5. Pull Request が対象のリポジトリに merge される
+
+---
+
+### Congratulate on your first contribution !!
