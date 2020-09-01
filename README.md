@@ -2,7 +2,8 @@
 
 ## 勉強会の資料
 
-1. [OSS 入門](https://speakerdeck.com/kawanamiyuu/introduction-to-oss)（[source](01-introduction-to-oss.md)）
+1. [Introduction to OSS](https://speakerdeck.com/kawanamiyuu/introduction-to-oss)（[source](01-introduction-to-oss.md)）
+2. [Contribution to OSS](https://speakerdeck.com/kawanamiyuu/contribution-to-oss)（[source](02-contribution-to-oss.md)）※ハンズオン
 
 ## requirements
 
