@@ -69,6 +69,23 @@ origin	https://github.com/kawanamiyuu/sandbox.git (push)
 
 ---
 
+### Tips: fork 元のリポジトリの変更に追従する方法
+
+```console
+$ git remote add upstream https://github.com/oss-friends/sandbox.git
+$ git remote -v
+origin	https://github.com/kawanamiyuu/sandbox.git (fetch)
+origin	https://github.com/kawanamiyuu/sandbox.git (push)
+upstream	https://github.com/oss-friends/sandbox.git (fetch)
+upstream	https://github.com/oss-friends/sandbox.git (push)
+```
+
+```console
+$ git pull --rebase upstream master # or `git merge upstream/master`
+```
+
+---
+
 ## 4. リポジトリを GitHub に push し、Pull Request を作成する
 
 ---
@@ -88,22 +105,3 @@ origin	https://github.com/kawanamiyuu/sandbox.git (push)
 ---
 
 ## 5. Pull Request が対象のリポジトリに merge される
-
----
-
-## Tips: fork 元のリポジトリの変更に追従する方法
-
----
-
-```console
-$ git remote add upstream https://github.com/oss-friends/sandbox.git
-$ git remote -v
-origin	https://github.com/kawanamiyuu/sandbox.git (fetch)
-origin	https://github.com/kawanamiyuu/sandbox.git (push)
-upstream	https://github.com/oss-friends/sandbox.git (fetch)
-upstream	https://github.com/oss-friends/sandbox.git (push)
-```
-
-```console
-$ git pull --rebase upstream master # or `git merge upstream/master`
-```
