@@ -46,9 +46,9 @@ OSS 勉強会 #1
 ### Open Source Initiative
 
 * オープンソースの定義
-    * https://opensource.org/osd （[和訳](https://ja.osdn.net/projects/opensource/wiki/Open_Source_Definition)）
+    * https://opensource.org/osd （[和訳](https://opensource.jp/osd/osd19)）
 * オープンソースライセンス
-    * https://opensource.org/licenses （[和訳](https://ja.osdn.net/projects/opensource/wiki/licenses)）
+    * https://opensource.org/licenses （[和訳](https://licenses.opensource.jp)）
 * Tips
     * [オープンソースの誕生 - Shuji Sado -](https://shujisado.com/2017/05/17/612085/)
 
@@ -163,7 +163,7 @@ OSS 勉強会 #1
 * 互いの意見を尊重した建設的な議論
 * 多様性を前提としたコミュニケーション
 * Tips
-    * [批判の文化が日本を技術後進国にしているかもしれないという話 - メソッド屋のブログ -](https://simplearchitect.hatenablog.com/entry/2020/06/22/083821	)
+    * [批判の文化が日本を技術後進国にしているかもしれないという話 - メソッド屋のブログ -](https://simplearchitect.hatenablog.com/entry/2020/06/22/083821    )
 
 ---
 
